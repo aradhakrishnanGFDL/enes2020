@@ -6,4 +6,6 @@ https://www.esiwace.eu/events/6th-hpc-workshop/presentations/building-blocks-for
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5196495.svg)](https://doi.org/10.5281/zenodo.5196495)
 
 Cite as
-RADHAKRISHNAN, APARNA, V Balaji, Jackson, Thomas, & Sonnewald, Maike. (2021). aradhakrishnanGFDL/enes2020: ENES 2020 (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.5196495
+
+Radhakrishnan A., Balaji V., Jackson T., Sonnewald M. (2020). Building blocks for exascale computing at GFDL, ENES 2020 (version 1.0.1). DOI: https://doi.org/10.5281/zenodo.5196395
+
