@@ -3,6 +3,12 @@ message: "If you use the slides or supporting code, please cite it as below."
 authors:
   - family-names: Radhakrishnan
     given-names: Aparna
+  - family-names: Balaji
+    given-names: V
+  - family-names: Jackson
+    given-names: Thomas
+  - family-names: Sonnewald
+    given-names: Maike
     orcid: https://orcid.org/0000-0002-2843-931X
 title: "Building blocks for exascale computing at GFDL, ENES 2020"
 version: 1.0.1
